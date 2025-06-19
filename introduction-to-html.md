@@ -144,3 +144,12 @@
 </body>
 </html>
 ```
+
+## Lecture 16
+- **[Favourite Movie Project](.com)**
+- List of recommended movies based on my interest.
+> - Elements contained:
+> \<h1>, \<h2>, \<h3> \<br>, \<hr>, \<p>
+
+## Lecture 17
+- Course Guidance
