@@ -105,7 +105,7 @@
 - **[Difference Checker](diffchecker.com)**: Used to compare two contents
 - Don't use break elements for new paragraph instead use seperate paragraph elements
 ### Exercise 03
-> <img src="./Ex.03_Self-Closing-Tags/goal.png">
+> <img src="./Ex.03_Self-Closing-Tags/assets/goal.png">
 <big>Solution:</big>
 ```
 <!DOCTYPE html>
@@ -144,12 +144,3 @@
 </body>
 </html>
 ```
-
-## Lecture 16
-- **[Favourite Movie Project](.com)**
-- List of recommended movies based on my interest.
-> - Elements contained:
-> \<h1>, \<h2>, \<h3> \<br>, \<hr>, \<p>
-
-## Lecture 17
-- Course Guidance
