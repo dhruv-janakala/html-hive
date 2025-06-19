@@ -57,7 +57,7 @@
 - Used to group text in code
 - Lorem Ipsum
 ### Exercise 02
-> <img src="./Ex.02_Paragraph-Element/goal.png">
+> <img src="./Ex.02_Paragraph-Element/assets/goal.png">
 <big>Solution:</big>
 ```
 <!DOCTYPE html>
