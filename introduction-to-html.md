@@ -25,7 +25,7 @@
 - Hierarchies is available
 - Use only one h1, don't skip levels, do not use heading elements to resize text
 ### Exercise 01
-> <img src="./Ex.01_Heading-Element/goal.png">
+> <img src="./Ex.01_Heading-Element/assets/images/goal.png">
 <big>Solution:</big>
 ```
 <!DOCTYPE html>
