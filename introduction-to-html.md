@@ -146,7 +146,7 @@
 ```
 
 ## Lecture 16
-- **[Favourite Movie Project](.com)**
+- **[Favourite Movie Project](https://dhruv-janakala.github.io/movie-ranking-project/)**
 - List of recommended movies based on my interest.
 > - Elements contained:
 > \<h1>, \<h2>, \<h3> \<br>, \<hr>, \<p>
